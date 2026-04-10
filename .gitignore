@@ -5,3 +5,6 @@ __pycache__/
 *.csv
 *.json
 .DS_Store
+
+!results.csv
+!results.json
