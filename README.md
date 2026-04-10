@@ -20,7 +20,7 @@ PDF Input --> Text Extraction (PyMuPDF) --> Is Scanned? --> OCR (Tesseract) --> 
 ## Steps to Build and Test
 
 1. Clone the repository
-   git clone https://github.com/yourusername/invoice-extractor.git
+   git clone https://github.com/AqsaMohammadi/invoice-extractor.git
    cd invoice-extractor
 
 2. Create virtual environment
