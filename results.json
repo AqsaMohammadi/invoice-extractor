@@ -1,0 +1,56 @@
+[
+  {
+    "invoice_number":null,
+    "date":null,
+    "vendor_name":null,
+    "total_amount":"72,20,444",
+    "file":"Document1.pdf",
+    "status":"success",
+    "tables_found":3
+  },
+  {
+    "invoice_number":"S2401-34",
+    "date":"05 Jan 2024",
+    "vendor_name":null,
+    "total_amount":null,
+    "file":"Document2.pdf",
+    "status":"success",
+    "tables_found":10
+  },
+  {
+    "invoice_number":"309048",
+    "date":"06-09-2022",
+    "vendor_name":"in accordance with the Code of Ethics issued by the Institute of \nChartered Accountants of India together with the ethical requirements that are relevant to our audit \nof the financial statements under the provisions of the Companies Act, 2013 and the Rules there \nunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements \nand the Co",
+    "total_amount":"10000",
+    "file":"Document3.pdf",
+    "status":"success",
+    "tables_found":8
+  },
+  {
+    "invoice_number":"101248",
+    "date":"31 March 2018",
+    "vendor_name":"considering the essential components of \ninternal controls stated in the Guidance Note on Audit of Internal \nFinancial Co",
+    "total_amount":"254",
+    "file":"Document4.pdf",
+    "status":"success",
+    "tables_found":111
+  },
+  {
+    "invoice_number":null,
+    "date":null,
+    "vendor_name":"ing Notes are an integral part of the Financial Statements\nIn terms of our report attached of even date\nFor and on behalf of the Board of Directors\nFor KKC & Associates LLP\nChartered Acco",
+    "total_amount":null,
+    "file":"Document5.pdf",
+    "status":"success",
+    "tables_found":2
+  },
+  {
+    "invoice_number":null,
+    "date":"12-04-2023",
+    "vendor_name":null,
+    "total_amount":null,
+    "file":"Document6.pdf",
+    "status":"success",
+    "tables_found":16
+  }
+]

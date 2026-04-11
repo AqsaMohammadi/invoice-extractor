@@ -1,0 +1,18 @@
+|    | invoice_number   | date          | vendor_name                                                                                            | total_amount   | file          | status   |   tables_found |
+|---:|:-----------------|:--------------|:-------------------------------------------------------------------------------------------------------|:---------------|:--------------|:---------|---------------:|
+|  0 |                  |               |                                                                                                        | 72,20,444      | Document1.pdf | success  |              3 |
+|  1 | S2401-34         | 05 Jan 2024   |                                                                                                        |                | Document2.pdf | success  |             10 |
+|  2 | 309048           | 06-09-2022    | in accordance with the Code of Ethics issued by the Institute of                                       | 10000          | Document3.pdf | success  |              8 |
+|    |                  |               | Chartered Accountants of India together with the ethical requirements that are relevant to our audit   |                |               |          |                |
+|    |                  |               | of the financial statements under the provisions of the Companies Act, 2013 and the Rules there        |                |               |          |                |
+|    |                  |               | under, and we have fulfilled our other ethical responsibilities in accordance with these requirements  |                |               |          |                |
+|    |                  |               | and the Co                                                                                             |                |               |          |                |
+|  3 | 101248           | 31 March 2018 | considering the essential components of                                                                | 254            | Document4.pdf | success  |            111 |
+|    |                  |               | internal controls stated in the Guidance Note on Audit of Internal                                     |                |               |          |                |
+|    |                  |               | Financial Co                                                                                           |                |               |          |                |
+|  4 |                  |               | ing Notes are an integral part of the Financial Statements                                             |                | Document5.pdf | success  |              2 |
+|    |                  |               | In terms of our report attached of even date                                                           |                |               |          |                |
+|    |                  |               | For and on behalf of the Board of Directors                                                            |                |               |          |                |
+|    |                  |               | For KKC & Associates LLP                                                                               |                |               |          |                |
+|    |                  |               | Chartered Acco                                                                                         |                |               |          |                |
+|  5 |                  | 12-04-2023    |                                                                                                        |                | Document6.pdf | success  |             16 |
